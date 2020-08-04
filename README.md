@@ -12,7 +12,7 @@ a real challenge,hence, most application perform inference in the cloud and send
 But, this could also be a challenge in some part of the world with low bandwidth and poor internet connection, 
 or in application of low latency or network is unavailable that beg the request the need to run model on the edge.
 
-Model can be optimized to run on edge by freezing, qunatization and fusion. 
+Model can be optimized to run on edge by freezing, quantization and fusion. 
 This application uses a model quantized by converting to tensorflowlite to make prediction.
 It performs image classification, object detection and image recognition. 
 
