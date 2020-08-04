@@ -18,8 +18,8 @@ It performs image classification, object detection and image recognition.
 
 ## Tools 
 
--Tensorflow
--Android Studio
+- Tensorflow
+- Android Studio
 
 
 ## Screenshot
