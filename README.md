@@ -16,9 +16,10 @@ This application uses a model quantized by converting to tensorflowlite to make 
 
 ## Tools 
 
-Tensorflow
-Android Studio
+-Tensorflow
+-Android Studio
 
 
 ## Screenshot
 
+![images](Screenshot_1.jpg)
