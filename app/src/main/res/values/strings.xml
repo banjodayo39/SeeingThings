@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SeeingThings</string>
+    <string name="title_classify">Image Classification</string>
+    <string name="title_realtime">Realtime Recognition</string>
+    <string name="title_detection">Object Detection</string>
+    <string name="detection">Detection</string>
+    <string name="realtime">Realtime</string>
+    <string name="photo">Photo</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera and storage permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">
+        <![CDATA[
+            This app is an application the gives variety of computer vision application and natural language processing.
+        ]]>
+    </string>
+    <string name="vision_app">Vision App</string>
+    <string name="detection_activity">DetectionActivity</string>
+    <string name="write_external_storage_permission_required">Image gallery access is required to get images for your profile picture</string>
+    <string name="ok">Ok</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_classify"
+        android:icon="@drawable/ic_classify_blue"
+        android:title="@string/photo" />
+
+    <item
+        android:id="@+id/navigation_real_time"
+        android:icon="@drawable/ic_real_time_blue"
+        android:title="@string/realtime" />
+
+    <item
+        android:id="@+id/navigation_detection"
+        android:icon="@drawable/ic_object_detection_blue"
+        android:title="@string/detection" />
+
+</menu>

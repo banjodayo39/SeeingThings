@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_classify">
+
+    <fragment
+        android:id="@+id/navigation_classify"
+        android:name="com.example.seeingthings.ui.home.ClassificationFragment"
+        android:label="@string/title_classify"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_real_time"
+        android:name="com.example.seeingthings.ui.realtimerecognition.RealTimeRecognitionFragment"
+        android:label="@string/title_realtime"
+        tools:layout="@layout/fragment_realtime_recognition" />
+
+    <fragment
+        android:id="@+id/navigation_detection"
+        android:name="com.example.seeingthings.ui.objectdetection.ObjectDetection"
+        android:label="@string/title_detection"
+        tools:layout="@layout/fragment_detection" />
+</navigation>
